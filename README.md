@@ -1,0 +1,1 @@
+In this assignment I created a function named calculate_discount(price, discount_percent) that calculates the final price after applying a discount. It also shows how a user can input the values and let the calculator calcute the final price based on the discount 
